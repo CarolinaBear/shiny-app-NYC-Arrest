@@ -27,7 +27,7 @@ Term: Spring 2020
 	+ Ruozhou Zhang
 	+ David Heagy
 	
-+ shiny link: https://saier-gong.shinyapps.io/NYCArrestData/
++ shiny link:  https://jiayun-carolina-ni.shinyapps.io/nycareestdata/
 
 + **Project summary**: In New York, there are usually news about unarrested criminals who have comitted a crime, especially around neighbourhoods, which makes us feel upset. And New York Police are trying their best to keep our residents safe.
   
