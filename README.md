@@ -4,7 +4,7 @@
 
 ![screenshot](doc/screenshot2.png)
 
-In this second project of GR5243 Applied Data Science, we develop a version 2.0 of an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using [NYC Open Data](https://opendata.cityofnewyork.us/) or U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
+In this project, we develop a version 2.0 of an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using [NYC Open Data](https://opendata.cityofnewyork.us/) or U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
 
 The **learning goals** for this project is:
 
@@ -14,8 +14,6 @@ The **learning goals** for this project is:
 - data visualization
 - systems development/design life cycle
 - shiny app/shiny server
-
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
 
 ## Project NYC Crime Data
 Term: Spring 2020
@@ -28,6 +26,8 @@ Term: Spring 2020
 	+ Tianning Yu
 	+ Ruozhou Zhang
 	+ David Heagy
+	
++ shiny link: https://saier-gong.shinyapps.io/NYCArrestData/
 
 + **Project summary**: In New York, there are usually news about unarrested criminals who have comitted a crime, especially around neighbourhoods, which makes us feel upset. And New York Police are trying their best to keep our residents safe.
   
@@ -35,24 +35,5 @@ Term: Spring 2020
 
 
 + **Data Source:** NYC Open Data
-
-
-
-
-+ **Contribution statement**: 
-
-
-
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
-
-```
-proj/
-├── app/
-├── lib/
-├── data/
-├── doc/
-└── output/
-```
-
-Please see each subfolder for a README file.
+https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
 
